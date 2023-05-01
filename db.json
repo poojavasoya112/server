@@ -1,0 +1,76 @@
+{
+    "product": [
+        {
+            "name": "laptop",
+            "date": "23/4/22",
+            "price": "35000Rs.",
+            "detail": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed fringilla ex eget finibus vehicula."
+        },
+        {
+            "name": "phone",
+            "date": "2/4/23",
+            "price": "1200Rs.",
+            "detail": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed fringilla ex eget finibus vehicula."
+        },
+        {
+            "name": "smart-watch",
+            "date": "12/8/23",
+            "price": "1200Rs.",
+            "detail": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed fringilla ex eget finibus vehicula."
+        },
+        {
+            "name": "Ac",
+            "date": "20/3/23",
+            "price": "25000Rs.",
+            "detail": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed fringilla ex eget finibus vehicula."
+        },
+        {
+            "name": "Computer",
+            "date": "4/3/20",
+            "price": "45000Rs.",
+            "detail": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed fringilla ex eget finibus vehicula."
+        },
+        {
+            "name": "",
+            "date": "2/4/23",
+            "price": "1200Rs.",
+            "detail": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed fringilla ex eget finibus vehicula."
+        },
+        {
+            "name": "phone",
+            "date": "2/4/23",
+            "price": "1200Rs.",
+            "detail": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed fringilla ex eget finibus vehicula."
+        },
+        {
+            "name": "phone",
+            "date": "2/4/23",
+            "price": "1200Rs.",
+            "detail": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed fringilla ex eget finibus vehicula."
+        },
+        {
+            "name": "phone",
+            "date": "2/4/23",
+            "price": "1200Rs.",
+            "detail": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed fringilla ex eget finibus vehicula."
+        },
+        {
+            "name": "phone",
+            "date": "2/4/23",
+            "price": "1200Rs.",
+            "detail": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed fringilla ex eget finibus vehicula."
+        },
+        {
+            "name": "phone",
+            "date": "2/4/23",
+            "price": "1200Rs.",
+            "detail": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed fringilla ex eget finibus vehicula."
+        },
+        {
+            "name": "phone",
+            "date": "2/4/23",
+            "price": "1200Rs.",
+            "detail": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed fringilla ex eget finibus vehicula."
+        }
+    ]
+}
